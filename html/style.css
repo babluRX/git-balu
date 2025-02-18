@@ -1,0 +1,21 @@
+.a{
+    background-color: rgb(13, 32, 32);
+color: white;
+}
+#b{
+    background-color: blue;
+    color: greenyellow;
+
+}
+h3{
+    background-color: aqua;
+    color: blueviolet;
+}
+h4,h5,h6{
+    background-color: aquamarine;
+    color: blueviolet;
+}
+*{
+    background-color: black;
+}
+
